@@ -22,4 +22,4 @@ El proyecto está alojado en GitHub. Puedes acceder a él en [este enlace](https
 - JavaScript
 
 ## Desarrolladores
-- Jackeline Almanzar (@tjackprin)
+- Jackeline Almanzar (@jackprin)
